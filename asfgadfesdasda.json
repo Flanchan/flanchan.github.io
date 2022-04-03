@@ -1,0 +1,118 @@
+{
+    "version": 11,
+    "structures": {
+        "black": {
+            "priority": 2,
+            "pixels": [
+                {
+                    "x": 299,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 298,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 297,
+                    "y": 833,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 297,
+                    "y": 835,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 311,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 311,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 310,
+                    "y": 833,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 310,
+                    "y": 835,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 323,
+                    "y": 833,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 324,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 324,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 337,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 337,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 350,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                },
+                    {
+                    "x": 350,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                        {
+                    "x": 363,
+                    "y": 837,
+                    "color": 27,
+                    "priority": 2
+                },
+                    {
+                    "x": 363,
+                    "y": 839,
+                    "color": 27,
+                    "priority": 2
+                }
+            ]
+        }
+    },
+    "priorities": {
+        "0": 0,
+        "1": 1,
+        "2": 5,
+        "3": 10
+    }
+}
